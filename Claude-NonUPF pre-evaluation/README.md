@@ -1,4 +1,4 @@
-You must have Claude Pro, Team, or Entrpise accoutto use
+You must have Claude Pro, Team, or Entrpise account to use
 
 Navigate to Settings → Capabilities. Ensure that Code execution and file creation is enabled. Claude Skills won't work without this on.
 
